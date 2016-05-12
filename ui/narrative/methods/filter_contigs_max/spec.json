@@ -51,7 +51,7 @@
         "service-mapping": {
             "url": "",
             "name": "mikaelacashmancontigfilterkbase",
-            "method": "filter_contigs",
+            "method": "filter_contigs_max",
             "input_mapping": [
                 {
                     "narrative_system_variable": "workspace",
